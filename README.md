@@ -1,5 +1,5 @@
 # Graph-Analytics - for Productive CRM
 
-Graph Generation using Neo4j
-Graph Analysis using Neo4j
-Node Classification Using GCN (Graph Convolutional Network)
+1.Graph Generation using Neo4j
+2.Graph Analysis using Neo4j
+3.Node Classification Using GCN (Graph Convolutional Network)
