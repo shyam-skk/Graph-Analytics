@@ -1,7 +1,7 @@
-# Graph-Analytics - for Productive CRM
+# Predictive Customer Relationship Management using Graph-Deep Learning
 
 1.Graph Generation using Neo4j
 
-2.Graph Analysis and Data Mining using Neo4j
+2.Graph Analysis and Data Mining using Neo4j and python
 
-3.Node Classification Using GCN (Graph Convolutional Network)
+3. Sales Node Classification Using GCN (Graph Convolutional Network)
