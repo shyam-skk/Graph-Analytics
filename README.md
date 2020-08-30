@@ -4,4 +4,4 @@
 
 2.Graph Analysis and Data Mining using Neo4j and python
 
-3. Sales Node Classification Using GCN (Graph Convolutional Network)
+3.Sales Node Classification Using GCN (Graph Convolutional Network)
